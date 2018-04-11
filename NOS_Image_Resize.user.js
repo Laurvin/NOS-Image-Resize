@@ -12,7 +12,7 @@
 // @run-at document-idle
 // ==/UserScript==
 
-var sizes = [ 'original', '1200x675', '1008x567', '864x486' ];
+var sizes = [ 'original', '2048x1152', '1200x675', '1008x567', '864x486' ];
 
 function checkSize(index) {
     if (index >= sizes.length) return;
