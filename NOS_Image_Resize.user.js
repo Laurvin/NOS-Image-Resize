@@ -3,10 +3,10 @@
 // @namespace NOS Image Resize
 // @author Laurvin
 // @description When directly viewing an image on NOS.nl, ensures that the highest resolution image is loaded. (Direct rewrite of Tumblr Image Size)
-// @version 1.4
+// @version 1.5
 // @icon http://i.imgur.com/XYzKXzK.png
 // @downloadURL https://github.com/Laurvin/NOS-Image-Resize/raw/master/NOS_Image_Resize.user.js
-// @include https://nos.nl/data/image/*
+// @include https://*.nos.nl/data/image/*
 // @require https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
 // @grant none
 // @run-at document-idle
