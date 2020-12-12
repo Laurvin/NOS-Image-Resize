@@ -7,6 +7,7 @@
 // @icon http://i.imgur.com/XYzKXzK.png
 // @downloadURL https://github.com/Laurvin/NOS-Image-Resize/raw/master/NOS_Image_Resize.user.js
 // @include https://*.nos.nl/data/image/*
+// @include https://*.nos.nl/image/*
 // @require https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
 // @grant none
 // @run-at document-idle
